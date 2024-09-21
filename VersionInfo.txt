@@ -1,0 +1,11 @@
+System Version Info
+
+Front-End:
+vueJs 3.5.5
+
+Back-End:
+PHP 7.4.1
+Laravel Framework 8.83.27
+
+DB:
+MariaDB 10.4.11
